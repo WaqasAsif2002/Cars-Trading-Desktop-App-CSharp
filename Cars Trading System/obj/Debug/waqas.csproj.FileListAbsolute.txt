@@ -1,0 +1,36 @@
+c:\users\jhanzaib\documents\visual studio 2015\Projects\waqas\waqas\bin\Debug\waqas.exe.config
+c:\users\jhanzaib\documents\visual studio 2015\Projects\waqas\waqas\obj\Debug\waqas.csprojResolveAssemblyReference.cache
+c:\users\jhanzaib\documents\visual studio 2015\Projects\waqas\waqas\obj\Debug\waqas.Properties.Resources.resources
+c:\users\jhanzaib\documents\visual studio 2015\Projects\waqas\waqas\obj\Debug\waqas.csproj.GenerateResource.Cache
+c:\users\jhanzaib\documents\visual studio 2015\Projects\waqas\waqas\bin\Debug\waqas.exe
+c:\users\jhanzaib\documents\visual studio 2015\Projects\waqas\waqas\bin\Debug\waqas.pdb
+c:\users\jhanzaib\documents\visual studio 2015\Projects\waqas\waqas\obj\Debug\waqas.exe
+c:\users\jhanzaib\documents\visual studio 2015\Projects\waqas\waqas\obj\Debug\waqas.pdb
+c:\users\jhanzaib\documents\visual studio 2015\Projects\waqas\waqas\obj\Debug\waqas.Form2.resources
+C:\Users\Jhanzaib\Documents\Visual Studio 2015\Projects\waqas\waqas\obj\Debug\waqas.About_us.resources
+C:\Users\Jhanzaib\Documents\Visual Studio 2015\Projects\waqas\waqas\obj\Debug\waqas.LOGIN.resources
+C:\Users\Jhanzaib\Documents\Visual Studio 2015\Projects\waqas\waqas\obj\Debug\waqas.media.resources
+E:\waqas\waqas\bin\Debug\waqas.exe.config
+E:\waqas\waqas\obj\Debug\waqas.exe
+E:\waqas\waqas\obj\Debug\waqas.pdb
+E:\waqas\waqas\bin\Debug\waqas.exe
+E:\waqas\waqas\bin\Debug\waqas.pdb
+E:\waqas\waqas\obj\Debug\waqas.csprojResolveAssemblyReference.cache
+E:\waqas\waqas\obj\Debug\waqas.About_us.resources
+E:\waqas\waqas\obj\Debug\waqas.LOGIN.resources
+E:\waqas\waqas\obj\Debug\waqas.Form2.resources
+E:\waqas\waqas\obj\Debug\waqas.media.resources
+E:\waqas\waqas\obj\Debug\waqas.Properties.Resources.resources
+E:\waqas\waqas\obj\Debug\waqas.csproj.GenerateResource.Cache
+E:\SMIU\2nd  seme\oop 2sem\waqas\waqas\bin\Debug\waqas.exe.config
+E:\SMIU\2nd  seme\oop 2sem\waqas\waqas\obj\Debug\waqas.exe
+E:\SMIU\2nd  seme\oop 2sem\waqas\waqas\obj\Debug\waqas.pdb
+E:\SMIU\2nd  seme\oop 2sem\waqas\waqas\bin\Debug\waqas.exe
+E:\SMIU\2nd  seme\oop 2sem\waqas\waqas\bin\Debug\waqas.pdb
+E:\SMIU\2nd  seme\oop 2sem\waqas\waqas\obj\Debug\waqas.csprojResolveAssemblyReference.cache
+E:\SMIU\2nd  seme\oop 2sem\waqas\waqas\obj\Debug\waqas.About_us.resources
+E:\SMIU\2nd  seme\oop 2sem\waqas\waqas\obj\Debug\waqas.LOGIN.resources
+E:\SMIU\2nd  seme\oop 2sem\waqas\waqas\obj\Debug\waqas.Form2.resources
+E:\SMIU\2nd  seme\oop 2sem\waqas\waqas\obj\Debug\waqas.media.resources
+E:\SMIU\2nd  seme\oop 2sem\waqas\waqas\obj\Debug\waqas.Properties.Resources.resources
+E:\SMIU\2nd  seme\oop 2sem\waqas\waqas\obj\Debug\waqas.csproj.GenerateResource.Cache
